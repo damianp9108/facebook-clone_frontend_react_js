@@ -1,0 +1,14 @@
+.upload_img {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.navbar__profilename{
+    margin-top: 25px;
+    font-weight: 600;
+    margin-left: 15px;
+}
+.navbar__righttab{
+    display: flex;
+    margin-left: 0px;
+    
+}
